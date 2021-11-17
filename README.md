@@ -1,7 +1,7 @@
 # Cara ou Coroa
 
-![Badge](https://img.shields.io/static/v1?label=Dart&message=45.7%&color=blue&style=flat&logo=)
-![Badge](https://img.shields.io/static/v1?label=HTML&message=28.5%&color=orange&style=flat&logo=)
+![Badge](https://img.shields.io/static/v1?label=Dart&message=28.5%&color=blue&style=flat&logo=)
+![Badge](https://img.shields.io/static/v1?label=HTML&message=45.7%&color=orange&style=flat&logo=)
 ![Badge](https://img.shields.io/static/v1?label=Objective-c&message=7.4%&color=green&style=flat&logo=)
 ![Badge](https://img.shields.io/static/v1?label=Shell&message=6.2%&color=yellow&style=flat&logo=)
 ![Badge](https://img.shields.io/static/v1?label=Java&message=6.0%&color=red&style=flat&logo=)
